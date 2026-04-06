@@ -11,7 +11,7 @@ In this project, I designed a relational database that reflects how a real unive
 
 For example, a student can enroll in multiple courses, and each course can have multiple students. To manage this, I used an Enrollments table. Similarly, I used another table to link instructors with the courses they teach.
 
-After creating the database structure, I added sample data and tested it using different SQL queries. These queries allow the system to perform basic operations like adding, updating, and deleting records, as well as more advanced tasks like combining data from multiple tables and calculating results.
+After creating the database structure, I added sample data and tested it using different SQL queries. These queries allow the system to perform basic operations like adding, updating, and deleting records, as well as more advanced tasks like combining data from multiple tables and solving queries.
 
 **Key Features**
 
