@@ -14,6 +14,7 @@ For example, a student can enroll in multiple courses, and each course can have 
 After creating the database structure, I added sample data and tested it using different SQL queries. These queries allow the system to perform basic operations like adding, updating, and deleting records, as well as more advanced tasks like combining data from multiple tables and calculating results.
 
 Key Features
+
 Stores and manages student, course, and instructor information
 Handles relationships between tables using foreign keys
 Supports basic operations like insert, update, delete, and select
@@ -22,4 +23,5 @@ Performs calculations such as counting students and averaging course credits
 Allows sorting and filtering of data
 
 Technologies Used
+
 SQL (MySQL)
